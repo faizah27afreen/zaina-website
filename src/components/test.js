@@ -5,7 +5,7 @@ function test() {
         <>
             <h1> just testing to see if this works </h1>
             <h2> faizah desktop </h2>
-            <h3> furquan desktop </h3>
+            <h3> furquan desktop, trying ubuntu </h3>
         </>
     )
 }
